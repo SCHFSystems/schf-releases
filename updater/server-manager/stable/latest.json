@@ -1,11 +1,12 @@
 ﻿{
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFVsa2FlMEV3dEZ2RmJxYXEvWjdYM1lIRkpKczg3MWJhVDdzNkV4ZFhPOUhDdVdxUVI4Mi9tS0FyQ09yOHR1TDIxMXNURm42OGdsUVByZTRJRW0rdTU2WDloWXliM0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTkyODg1CWZpbGU6dG1wLXNtLmV4ZQp3SzBWdzdJQ05zdVhBMDBzYlJERlArSFAxSWM0aGY1Y3lOc2JVY1h4Nm85T2RCOUdoSWZLMlhPWHIzYThMSkQxeWJuS3c2T0RDTHVrOURyakRDQUdCUT09Cg==",
-                                             "url":  "https://github.com/SCHFSystems/schf-releases/releases/download/server-manager-v0.3.0-test/fake-sm-v0.3.0.exe"
+                                             "url":  "https://github.com/SCHFSystems/schf-releases/releases/download/server-manager-v0.2.0-local-rc.1/SCHF-Server-Manager-Setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFVsa2FlMEV3dEZHRU1iZ0JPOGR3OG0vdHg4Z2VHZTBuQ0RUNzg0enN4bkxuOEtwbzZ5WFhlZkpIcVNJNTFTRDNyeTUyQVl2OTArdkpkU2lIQi9yNy9NMC81R2tyRGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTkxMzk5CWZpbGU6dG1wLVNDSEYtU2VydmVyLU1hbmFnZXItU2V0dXAuZXhlCmtKbFNHeEFlOUFrYWxTV2RybytaYVl3ZFVVeFpJQmR5RDVudm05OGFiQjZEYkRRQzFyN2NMenBqYWtBME1MNjVLdm9Ka0ZXRTJLU3hJcDN1Mk5YQ0NnPT0K",
+                                             "sha256":  "553507513f8c282de73918bc6a17bd02334e752c4d4fa40b0e1a94a2b1cf4ebb"
                                          }
                   },
-    "pub_date":  "2026-08-12T23:00:00Z",
-    "version":  "0.3.0-test",
-    "notes":  "TEST N+1"
+    "pub_date":  "2026-08-12T22:30:00Z",
+    "version":  "0.2.0-local-rc.1",
+    "notes":  "SCHF server-manager Local RC 1"
 }

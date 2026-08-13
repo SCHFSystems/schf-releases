@@ -1,8 +1,9 @@
 ﻿{
     "platforms":  {
                       "windows-x86_64":  {
+                                             "url":  "https://github.com/SCHFSystems/schf-releases/releases/download/client-v0.2.0-local-rc.1/SCHF-Client-Setup.exe",
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFVsa2FlMEV3dEQxR3FQUWlRTzNkRjREZHN4UU8vdHFOeTdmSWsyK1FkakRYUjREWkdaU1ZnV0RlR1h0ZzdwWVZGYXlHZTB0ZDVhRE5hS2RYRXBITXc4dWNBR01QN1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTkwMDUzCWZpbGU6dG1wLXNpZ24uZXhlCjBTZ0Y4SHZHNG1KSDU2TmVDTEZpSGZiUnJRdGx5b3NpSndIL01oeXg4NjVMWi9COWNya0ZIYnpFSURwZS9tNGRja0RGcnFEOU9oY3NTbkhDUkwrREN3PT0K",
-                                             "url":  "https://github.com/SCHFSystems/schf-releases/releases/download/client-v0.2.0-local-rc.1/SCHF-Client-Setup.exe"
+                                             "sha256":  "7e68cb55110caa56693e43cffb51e0a6e898d24268ad64f3d39739b6bc850d04"
                                          }
                   },
     "pub_date":  "2026-08-12T22:30:00Z",

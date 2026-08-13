@@ -1,11 +1,12 @@
 ﻿{
     "platforms":  {
                       "windows-x86_64":  {
+                                             "url":  "https://github.com/SCHFSystems/schf-releases/releases/download/activator-v0.2.0-local-rc.1/SCHF-Activator-Setup.exe",
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFVsa2FlMEV3dFBpbDRwUy9heFVDTkVFS043ek54aGlpa3Q0aWM2bXo5OCtNTy9reTRId3MvK2tNeFJ2RmlCU3hkL3g2SEdoZkdzOSt6SzlBQXlBbmduL254bmFobkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTkwNzY0CWZpbGU6dG1wLWFjdGl2YXRvci5leGUKby9ZUU5jTkZDRXpkZk9JMXE0SnBVMVhFK2dRTUxvYkI2S3lRdWZUMWFpLzFjdUtVcW14b2p1S2VqczZHb1Z0cmJPZE5sbVBIT0FLUi92a0NyMEFnQVE9PQo=",
-                                             "url":  "https://github.com/SCHFSystems/schf-releases/releases/download/activator-v0.2.0-local-rc.1/SCHF-Activator-Setup.exe"
+                                             "sha256":  "4aef5b0a3fb4411f86982464a01f7ed29553cfbca8822c75d11593fe8ed8a149"
                                          }
                   },
-    "pub_date":  "2026-08-12T23:00:00Z",
-    "version":  "0.3.0-test",
-    "notes":  "TEST: N+1"
+    "pub_date":  "2026-08-12T22:30:00Z",
+    "version":  "0.2.0-local-rc.1",
+    "notes":  "SCHF activator Local RC 1"
 }

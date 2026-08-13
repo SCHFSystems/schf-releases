@@ -1,12 +1,12 @@
 ﻿{
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/SCHFSystems/schf-activator/releases/download/activator-v0.2.0-local-rc.1/SCHF-Activator-Setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFVsa2FlMEV3dEgzUlpEQUtWZUJVZlhnMXBjNDczczFQQktHNDg2TThJTHB6VGpxY2Uza0N5NEpJNU54WUtCWGpNR1lNZzY1ZmRVQnRQNXNLUHVlZHVXK0VLZXl6cmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTk1NzMxCWZpbGU6dG1wLVNDSEYtQWN0aXZhdG9yLVNldHVwLmV4ZQpaaXV1SUlmTUNlY3Y0NnZ1MjZDbHJIUFFIMHYvTkRzQ3lCNUYvaFlRY2w5a2FhZ0RsVzE1dlAvZTF1L2cvcjlaOWVoLzVDWitZNlk3ZmpuZUNTSnZDdz09Cg==",
-                                             "sha256":  "73759240f9d23ec95dc67c874a0dd0ff32c544a290045c4d59d18be14e974b35"
+                                             "url":  "https://github.com/SCHFSystems/schf-activator/releases/download/activator-v0.3.0-test/SCHF-Activator-Setup.exe",
+                                             "sha256":  "placeholder",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFVsa2FlMEV3dE9lTDFnckVTUFI1Wkh3aEhIMEt6Mm5UbWFxK2ZzZng2Sm1mRlFubnNnMGczMnNKK3JuVnhtMjF6MTZTWGtTamI3SHd1TjI5OFltM09KWHBGcmQ2eUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjYxMTE2CWZpbGU6dG1wLVNDSEYtQWN0aXZhdG9yLVNldHVwLmV4ZQpuVG5xdFJwcXlVa2ZiejhQcXJyS0VUNkRZZjVrS2Rpc3NBVFpNd1U4eEpsWmNadGzUExzUjAvclBsWDR1ZXd6bGlnZ1E4K3F4MnZRNEpSS0tiM0FCZz09Cg=="
                                          }
                   },
-    "pub_date":  "2026-08-12T22:30:00Z",
-    "version":  "0.2.0-local-rc.1",
-    "notes":  "SCHF activator Local RC 1"
+    "pub_date":  "2026-08-13T00:00:00Z",
+    "version":  "0.3.0-test",
+    "notes":  "TEST NEWER VERSION"
 }

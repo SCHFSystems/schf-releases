@@ -1,0 +1,11 @@
+﻿{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFVsa2FlMEV3dE1GbTJLSWlNWlhvd3N3OU1KR1B6MkRwRXRoakNzVm5NVWZQQnIrNWR2UXlTM3V6NUxGclNVejd3cVgvaHcrQVp2bmo4eGFWL01OWVBiUFphUXdqaVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTkwMDUzCWZpbGU6dG1wLXNpZ24uZXhlCmJlaEpkYWg2QTQyajFsc2tCdFN4a1JiRHdKWlhrV3UyVmVzNk1BUnlWbXM5bXJmUldjREtrZkVMY2JxTEM0TnhidlVNZzBiZWROTUM1UThHdytKU0RBPT0K",
+                                             "url":  "https://github.com/SCHFSystems/schf-releases/releases/download/dmm-v0.2.0-local-rc.1/SCHF-DMM-Setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-08-12T22:30:00Z",
+    "version":  "0.2.0-local-rc.1",
+    "notes":  "SCHF dmm Local RC 1"
+}

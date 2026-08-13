@@ -1,0 +1,11 @@
+﻿{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFVsa2FlMEV3dEZaWUcrbEZWZUdlekRWZjBLeVhwa1lBM0VnNVVsYVFadDg4T3hQajlBSE40UHVQSU1JN1ZnaWVDYzE3UEdCZWNsUlZJeHBBZFlxOXpBNjVaWExlZndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTkwMDUzCWZpbGU6dG1wLXNpZ24uZXhlCkxvSE9zWEFoTGtkMkNkOGhJYVBCc1pWbWprTmI1bC92dC9JdXQrak5yWWRnRkVSdVpiT1FlSzFid3NhYWFlOHJONkw5M0hhWnZUeVMydnJUT2lZd0RBPT0K",
+                                             "url":  "https://github.com/SCHFSystems/schf-releases/releases/download/connect-agent-v0.2.0-local-rc.1/SCHF-Connect-Agent-Setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-08-12T22:30:00Z",
+    "version":  "0.2.0-local-rc.1",
+    "notes":  "SCHF connect-agent Local RC 1"
+}

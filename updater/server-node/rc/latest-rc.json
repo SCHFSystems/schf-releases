@@ -1,0 +1,11 @@
+﻿{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFVsa2FlMEV3dERRdCtLL1EzejZVYjVmV25DaFBPMDNHcXRZVXkvZHI5UkdFL2RmWE90QWpkZGpnQ1RUbnFEL0FnQjFjNmw1ZVZ4Tmg2TGduRnROQkVIZEFQYlBSZ1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTkwMDU0CWZpbGU6dG1wLXNpZ24uZXhlClNVSGNCOS9BbVJ1a0lIZi9sNFlMQzE2bHRyTFAzcWRMbCtkaThPenNOR3ExNkJ4U2s5bXJacWQ1enlua3NYNEx2WkcwakhQc1dGSnA2bW9rQ2RLOUNRPT0K",
+                                             "url":  "https://github.com/SCHFSystems/schf-releases/releases/download/server-node-v0.2.0-local-rc.1/SCHF-Server-Node-Setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-08-12T22:30:00Z",
+    "version":  "0.2.0-local-rc.1",
+    "notes":  "SCHF server-node Local RC 1"
+}

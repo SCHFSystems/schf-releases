@@ -2,8 +2,8 @@
     "platforms":  {
                       "windows-x86_64":  {
                                              "url":  "https://github.com/SCHFSystems/schf-releases/releases/download/connect-agent-v0.2.0-local-rc.1/SCHF-Connect-Agent-Setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFVsa2FlMEV3dE5YcmYwbnM3SnliZEJWZ0czQ1F4TEpsOHVveTkvVGtlS0pOYjkwaXcyeHBSOHhkZzdHb015bW1yOEF5YUxxQ0x0YTBUeGw1TTRQQTR0blNRaVJDR0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTkxMzk5CWZpbGU6dG1wLVNDSEYtQ29ubmVjdC1BZ2VudC1TZXR1cC5leGUKMlQyeXNJWVhpYWFKNTJwd3RGWnRmdXF1YUFMWjUrMnVUOXVQSlhOUFZhMEdkdERPOVVvaU93aGNRZ2VUcWlRMTdIV2JHTWM1U2ZleU5tQWpPTTlRRGc9PQo=",
-                                             "sha256":  "7893cbea1d0b07cd4fffeca7c78ac980618e9ca31ee5604b45c42c0d3ed6a318"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFVsa2FlMEV3dEZ5SVpJN3U5UisxeEh0RndYSGs2eEhoaHpud2t3RmJlSDEzNTNHRTVxdGZjb0dvMzlHS1FrZEhmMjZFT0ExdDVvWHFoMkcwV3h6bHlJbE02OUROVFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTk1NzMyCWZpbGU6dG1wLVNDSEYtQ29ubmVjdC1BZ2VudC1TZXR1cC5leGUKdFF6bWJGd3lGTWk3UjVQbXRyNmtuWW5MbVdSc0JpVEdEOVR6azhZbDRFSzRTZVU0VFJaRVZNSWQycmdhV3djRXROQ25ZMDRJd1FSN05JUDZUTWhsQkE9PQo=",
+                                             "sha256":  "55434107fcdda23bed8cd563b9d48294e217a08d2d4074f47e4b373e8c4822d3"
                                          }
                   },
     "pub_date":  "2026-08-12T22:30:00Z",
